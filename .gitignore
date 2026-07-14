@@ -1,4 +1,6 @@
-﻿__pycache__/
+__pycache__/
 Lib/
 Scripts/
 *.pyc
+build/web-cache/
+pygbag.ini
