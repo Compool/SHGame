@@ -1,3 +1,5 @@
-﻿{
+{
+  "installCommand": "echo done",
+  "buildCommand": "echo done",
   "outputDirectory": "build/web"
 }
